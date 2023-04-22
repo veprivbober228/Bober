@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(black,yellow,blue);
+    
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+a{
+    text-decoration: dotted;
+    margin: 150px;
+    text-align: center;
+}
+a{
+color: rgb(47, 0, 255);
+
+}
+img{
+border-radius: 200px;
+}
+
+nav {
+    border-top: 3px solid royalblue;
+    border-bottom: 3px solid royalblue;
+    display: flex;
+    justify-content: space-between;
+
+}
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 143, 131);
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+footer p{
+    color: beige;
+    text-align: center;
+    font-size: 14px;
+}
+p{
+    color: azure;
